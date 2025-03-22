@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dishan.vercel.app" target="blank">
+<a href="https://dishan.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishan ranasinghe" height="30" width="40" /></a>
   
 <a href="https://linkedin.com/in/dishan-ranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishan ranasinghe" height="30" width="40" /></a>
 <a href="https://medium.com/@roxchain12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@roxchain12345" height="30" width="40" /></a>
