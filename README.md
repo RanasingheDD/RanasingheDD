@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dishan Ranasinghe</h1>
+<div class="text-center">
+    <h1 class="text-4xl font-bold">Hi 👋, I'm Dishan Ranasinghe</h1>
+    <a href="https://dishan.vercel.app" target="_blank" 
+       class="mt-4 inline-block bg-blue-500 text-white px-6 py-2 rounded-lg hover:bg-blue-600 transition duration-300">
+       🌍 Visit My Portfolio 🔗
+    </a>
+</div>
+
 <h3 align="center">Passionate about IoT innovation, cybersecurity, and mobile application development. Experienced in crafting robust mobile solutions with a focus on user-centric design. Enthusiastic about leveraging technology to drive impactful solutions and staying updated with the latest trends in IoT and cybersecurity..</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranasinghedd" alt="ranasinghedd" /></a> </p>
@@ -13,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dishan.vercel.app" target="_blank">Visit My portfolio</a>
+
 
   
 <a href="https://linkedin.com/in/dishan-ranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishan ranasinghe" height="30" width="40" /></a>
